@@ -15,8 +15,8 @@ import javax.ws.rs.core.Response;
 
 import org.apache.deltaspike.jpa.api.transaction.Transactional;
 
-import ${package}.entities.Post;
-import ${package}.repository.PostRepository;
+import ${package}.${artifactId}.entities.Post;
+import ${package}.${artifactId}.repository.PostRepository;
 
 @Path("/blog/posts")
 @Singleton

@@ -6,7 +6,7 @@ package ${package}.${artifactId}.repository;
 import org.apache.deltaspike.data.api.EntityRepository;
 import org.apache.deltaspike.data.api.Repository;
 
-import ${package}.entities.Post;
+import ${package}.${artifactId}.entities.Post;
 
 @Repository
 public interface PostRepository extends EntityRepository<Post, String>{

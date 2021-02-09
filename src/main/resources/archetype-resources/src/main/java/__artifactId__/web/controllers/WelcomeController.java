@@ -10,7 +10,6 @@ import javax.inject.Named;
 @RequestScoped
 public class WelcomeController {
 	public String getWelcomeMessage() {
-		System.out.println("Test");
 		return "Welcome to Java EE 8 (Tomee 8.0.9)";
 	}
 }
