@@ -1,7 +1,7 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package}.web.resources.blog;
+package ${package}.${artifactId}.web.resources.blog;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
