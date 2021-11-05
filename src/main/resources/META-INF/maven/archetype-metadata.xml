@@ -30,4 +30,7 @@
       </includes>
     </fileSet>
   </fileSets>
+  <requiredProperty key="artifactIdWithoutDash">
+    <defaultValue>${artifactId.replaceAll("-", ".")}</defaultValue>
+  </requiredProperty>
 </archetype-descriptor>

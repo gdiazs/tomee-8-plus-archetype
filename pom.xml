@@ -4,7 +4,7 @@
 
   <groupId>io.github.gdiazs</groupId>
   <artifactId>tomee-8-plus-archetype</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>maven-archetype</packaging>
 
   <name>tomee-8-plus-archetype</name>

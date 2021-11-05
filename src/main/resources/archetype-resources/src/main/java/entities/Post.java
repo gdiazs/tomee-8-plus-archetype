@@ -1,7 +1,7 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package}.${artifactId}.entities;
+package ${package}.entities;
 
 import java.util.Date;
 import java.util.UUID;

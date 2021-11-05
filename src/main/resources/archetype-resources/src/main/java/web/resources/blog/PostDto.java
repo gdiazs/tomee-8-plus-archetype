@@ -1,7 +1,7 @@
 #set( $symbol_pound = '#' )
 #set( $symbol_dollar = '$' )
 #set( $symbol_escape = '\' )
-package ${package}.${artifactId}.web.resources.blog;
+package ${package}.web.resources.blog;
 
 import lombok.Getter;
 import lombok.Setter;
